@@ -11,6 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
+
 var my = '解决数据';
 var Main = require("./component/Main");
 export default class DouBanDemo extends Component {
